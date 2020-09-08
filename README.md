@@ -25,7 +25,7 @@
 <p align="center">
 <a href="shresthasudip08.com.np"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/sudipstha08/"><img alt="LinkedIn" src="https://img.shields.io/badge/SudipShrestha-linkedin-blue"></a>
-<a href="https://www.instagram.com/iam5udipstha/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/iam5udipstha/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-im5udipstha-red&logo=instagram"></a>
 <a href="mailto:sudipstha08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
