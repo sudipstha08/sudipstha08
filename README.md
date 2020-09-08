@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🎓 &nbsp; Studied bachelor in computer engineering from Tribhuvan University.
+- 💼 &nbsp; Working as a Front End Developer.
+- 🌱 &nbsp; Learning more about Node, Express, Firebase.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
@@ -23,10 +23,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="shresthasudip08.com.np"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sudipstha08/"><img alt="LinkedIn" src="https://img.shields.io/badge/SudipShrestha-linkedin-blue"></a>
+<a href="shresthasudip08.com.np"><img alt="Website" src="https://img.shields.io/badge/Website-shresthasudip08.com.np-yellow"></a>
+<a href="https://www.linkedin.com/in/sudipstha08/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sudipstha08-lightgrey"></a>
 <a href="https://www.instagram.com/iam5udipstha/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-im5udipstha-red&logo=instagram"></a>
-<a href="mailto:sudipstha08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:sudipstha08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Mail-sudipstha08-orange"></a>
 </p>
 
 ⭐️
