@@ -12,7 +12,7 @@
 
 - 💻 &nbsp; C | C++
 - 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | Jquery | Bootstrap | Material UI | Node.js | ReactJS | Redux | Webpack
-- 🛢 &nbsp; MongoDB | Firebase
+- 🛢 &nbsp; MongoDB | Firebase | REST
 - 🔧 &nbsp; Git | Markdown | Gitlab | Github
 - 🖥 &nbsp; Figma | Photoshop | XD
 
