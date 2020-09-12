@@ -27,6 +27,7 @@
 <a href="https://www.linkedin.com/in/sudipstha08/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sudipstha08-lightgrey"></a>
 <a href="https://www.instagram.com/iam5udipstha/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-im5udipstha-red&logo=instagram"></a>
 <a href="mailto:sudipstha08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Mail-sudipstha08-orange"></a>
+<a href="https://codepen.io/SudipShrestha"><img alt="Email" src="https://img.shields.io/badge/CodePen-SudipShrestha-blue"></a>
 </p>
 
 ⭐️
