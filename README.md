@@ -5,13 +5,13 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied bachelor in computer engineering from Tribhuvan University.
 - 💼 &nbsp; Working as a Front End Developer.
-- 🌱 &nbsp; Learning more about Firebase, TypeScript & Go
+- 🌱 &nbsp; Learning more about Firebase ,Go & Gin framework
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C | C++
-- 🌐 &nbsp; JavaScript | ReactJS | Redux| Jquery |  Node.js  | Webpack
+- 🌐 &nbsp; JavaScript | TypeScript | ReactJS | NextJS | Redux | Jquery |  Node.js  | Webpack
 - &#127969;&nbsp; HTML | CSS | SCSS | Bootstrap | Material UI | AntDesign
 - 🛢 &nbsp; MongoDB | Firebase | REST
 - 🔧 &nbsp; Git | Markdown | Gitlab | Github
