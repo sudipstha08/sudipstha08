@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C | C++
-- 🌐 &nbsp; JavaScript | TypeScript | ReactJS | NextJS | Redux | Jquery |  Node.js  | Webpack | Go | Gin
+- :bulb: &nbsp; JavaScript | TypeScript | ReactJS | NextJS | Redux | Jquery |  Node.js  | Webpack | Go | Gin
 - &#127969;&nbsp; HTML | CSS | SCSS | Bootstrap | Material UI | AntDesign
 - 🛢 &nbsp; MongoDB | Firebase | REST
 - 🔧 &nbsp; Git | Markdown | Gitlab | Github
