@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- :books: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied bachelor in computer engineering from Tribhuvan University.
 - 💼 &nbsp; Working as a Front End Developer.
 - 🌱 &nbsp; Learning more about Firebase, Go & Gin framework
