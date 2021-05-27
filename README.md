@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- :books: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- :book: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied bachelor in computer engineering from Tribhuvan University.
 - 💼 &nbsp; Working as a Front End Developer.
 - 🌱 &nbsp; Learning more about Firebase, Go & Gin framework
@@ -14,7 +14,7 @@
 - :bulb: &nbsp; JavaScript | TypeScript | ReactJS | NextJS | Redux | Jquery |  Node.js  | Webpack | Go | Gin
 - &#127969;&nbsp; HTML | CSS | SCSS | Bootstrap | Material UI | AntDesign
 - 🛢 &nbsp; Firebase | REST
-- 🔧 &nbsp; Git | Markdown | Gitlab | Github
+- 🔧 &nbsp; Git | Gitlab | Github
 - 🖥 &nbsp; Figma | Photoshop | XD
 
 <br/>
