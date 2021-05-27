@@ -13,7 +13,7 @@
 - 💻 &nbsp; C | C++
 - :bulb: &nbsp; JavaScript | TypeScript | ReactJS | NextJS | Redux | Jquery |  Node.js  | Webpack | Go | Gin
 - &#127969;&nbsp; HTML | CSS | SCSS | Bootstrap | Material UI | AntDesign
-- 🛢 &nbsp; Firebase | REST
+- ✨ &nbsp; Firebase | REST
 - 🔧 &nbsp; Git | Gitlab | Github
 - 🖥 &nbsp; Figma | Photoshop | XD
 
