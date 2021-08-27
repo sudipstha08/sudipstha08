@@ -22,7 +22,7 @@
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipstha08&show_icons=true)](https://github.com/AVS1508)
 ![SudipStha Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudipstha08&theme=vue&layout=compact)
 
-<h3> 🤝🏻 Connect with Me :sparkles:</h3>
+<h3>⭐️ Connect with Me :sparkles:</h3>
 
 <p align="center">
 <a href="https://shresthasudip08.com.np/"><img alt="Website" src="https://img.shields.io/badge/Website-shresthasudip08.com.np-yellow"></a>
@@ -32,7 +32,8 @@
 <a href="https://codepen.io/SudipShrestha"><img alt="Email" src="https://img.shields.io/badge/CodePen-SudipShrestha-blue"></a>
 </p>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sudipstha08)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sudipstha08)
 
 
-⭐️
+
+
