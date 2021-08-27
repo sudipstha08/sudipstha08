@@ -19,7 +19,7 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipstha08&show_icons=true)](https://github.com/AVS1508)
+[![SudipStha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipstha08&show_icons=true)](https://github.com/sudipstha08)
 ![SudipStha Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudipstha08&theme=vue&layout=compact)
 
 <h3>⭐️ Connect with Me :sparkles:</h3>
