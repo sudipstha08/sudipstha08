@@ -15,7 +15,7 @@
 - &#127969;&nbsp; HTML | CSS | SCSS | Bootstrap | Material UI | AntDesign
 - ✨ &nbsp; Firebase | REST | MySQL
 - 🔧 &nbsp; Git | Gitlab | Github
-- 🖥 &nbsp; Figma | Photoshop | XD
+- 🖥 &nbsp; Figma
 
 <br/>
 
