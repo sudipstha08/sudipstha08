@@ -32,7 +32,7 @@
 <a href="https://codepen.io/SudipShrestha"><img alt="Email" src="https://img.shields.io/badge/CodePen-SudipShrestha-blue"></a>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sudipstha08)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sudipstha08) -->
 
 
 
