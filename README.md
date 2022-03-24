@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studied bachelor in computer engineering from Tribhuvan University.
 - 💼 &nbsp; Working as a Full Stack Developer.
 - 🌱 &nbsp; Learning more about CI/CD & Gin framework
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Laarning blockchain & NFTs
 
 <h3>🛠 Tech Stack</h3>
 
