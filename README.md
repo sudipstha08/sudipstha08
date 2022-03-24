@@ -6,12 +6,12 @@
 - 🎓 &nbsp; Studied bachelor in computer engineering from Tribhuvan University.
 - 💼 &nbsp; Working as a Full Stack Developer.
 - 🌱 &nbsp; Learning more about CI/CD & Gin framework
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Learning Blockchain & NFTs
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C | C++
-- :bulb: &nbsp; JavaScript | TypeScript | ReactJS | NextJS | Redux | Jquery |  Node.js  | Webpack | Go | Gin
+- :bulb: &nbsp; JavaScript | TypeScript | ReactJS | NextJS | Redux |  Node.js  | Webpack | Go | Gin
 - &#127969;&nbsp; HTML | CSS | SCSS | Bootstrap | Material UI | AntDesign
 - ✨ &nbsp; Firebase | REST | MySQL
 - 🔧 &nbsp; Git | Gitlab | Github
