@@ -23,6 +23,20 @@
 [![SudipStha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipstha08&show_icons=true)](https://github.com/sudipstha08)
 ![SudipStha Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudipstha08&theme=vue&layout=compact)
 
+<br>
+<h2>Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,bash,linux,docker,nextjs,prisma,sass" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,mysql,postgres,mongodb,c,git,github,figma,gcp,firebase,redux,nodejs" />
+  </a>
+</p>
+
 <h3>⭐️ Connect with Me :sparkles:</h3>
 
 <p align="center">
