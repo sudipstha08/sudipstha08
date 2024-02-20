@@ -14,9 +14,8 @@
 - :bulb: &nbsp; JavaScript | TypeScript | Node.js | Go
 - :trophy: &nbsp; ReactJS | NextJS | Redux | React Native | Gin
 - &#127969;&nbsp; HTML | CSS | SCSS | Bootstrap | Material UI | AntDesign
-- ✨ &nbsp; Firebase | REST | MySQL
-- 🔧 &nbsp; Git | Github | Github Actions | CircleCI
-- 🖥 &nbsp; Figma
+- ✨ &nbsp; Firebase | REST | MySQL | Postgres
+- 🔧 &nbsp; Git | Github | Github Actions | CircleCI | Docker | AWS
 
 <br/>
 
