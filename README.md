@@ -52,4 +52,4 @@
 
 - <a href="https://medium.com/@sudipstha08/reconciliation-algorithm-in-react-59ad4cd19e17" target="_blank">Reconciliation algorithm in React</a>
 
-Happy coding 🌱
+Happy coding :v:
