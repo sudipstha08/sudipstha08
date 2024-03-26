@@ -10,7 +10,6 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C | C++
 - :bulb: &nbsp; JavaScript | TypeScript | Node.js | Go
 - :trophy: &nbsp; ReactJS | NextJS | Redux | React Native | Gin
 - &#127969;&nbsp; HTML | CSS | SCSS | Bootstrap | Material UI | AntDesign
