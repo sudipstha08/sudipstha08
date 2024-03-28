@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - :book: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied bachelor in computer engineering from Tribhuvan University.
-- 💼 &nbsp; Working as a Full Stack Developer.
-- 🌱 &nbsp; Learning more about CI/CD & Gin framework
+- 🎓 &nbsp; Studied Bachelor's in Computer Engineering from Tribhuvan University.
+- 💼 &nbsp; Working as a Full Stack Software Engineer.
+- 🌱 &nbsp; Learning more about CI/CD & AWS
 - ✍️ &nbsp; Learning Blockchain & NFTs
 
 <h3>🛠 Tech Stack</h3>
