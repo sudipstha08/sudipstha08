@@ -51,6 +51,7 @@
 
 - <a href="https://sudipstha08.medium.com/understanding-dom-3c0edf9d96b7" target="_blank">Understanding DOM</a>
 - <a href="https://medium.com/@sudipstha08/reconciliation-algorithm-in-react-59ad4cd19e17" target="_blank">Reconciliation algorithm in React</a>
+- <a href="https://sudipstha08.medium.com/implement-ant-design-with-next-js-2764e4b81293" target="_blank">Implement And Design in NextJS</a>
 
 <p align="center">
 Happy coding :v:
