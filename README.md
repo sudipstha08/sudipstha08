@@ -53,6 +53,7 @@
 - <a href="https://medium.com/@sudipstha08/reconciliation-algorithm-in-react-59ad4cd19e17" target="_blank">Reconciliation algorithm in React</a>
 - <a href="https://sudipstha08.medium.com/implement-ant-design-with-next-js-2764e4b81293" target="_blank">Implement Ant Design in NextJS</a>
 - <a href="https://sudipstha08.medium.com/openid-connect-vs-oauth-demystifying-authentication-and-authorization-2fb05759d880" target="_blank">Demystifying OAuth and OpenID</a>
+- <a href="https://sudipstha08.medium.com/implement-soft-delete-in-prisma-1a4441c85b78" target="_blank">Implement Soft Delete in Prisma</a>
 
 <p align="center">
 Happy coding :v:
