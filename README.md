@@ -26,12 +26,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bash,docker,nextjs,prisma,sass" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bash,docker,nextjs,prisma,sass,jest" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,mysql,postgres,mongodb,git,github,firebase,redux,nodejs,aws,npm,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=go,mysql,postgres,mongodb,git,github,firebase,redux,nodejs,aws,npm,stackoverflow,githubactions" />
   </a>
 </p>
 
