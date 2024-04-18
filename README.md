@@ -49,11 +49,11 @@
 
 <h3> :book: My Articles </h3>
 
-- <a href="https://sudipstha08.medium.com/understanding-dom-3c0edf9d96b7" target="_blank">Understanding DOM</a>
 - <a href="https://medium.com/@sudipstha08/reconciliation-algorithm-in-react-59ad4cd19e17" target="_blank">Reconciliation algorithm in React</a>
 - <a href="https://sudipstha08.medium.com/implement-ant-design-with-next-js-2764e4b81293" target="_blank">Implement Ant Design in NextJS</a>
-- <a href="https://sudipstha08.medium.com/openid-connect-vs-oauth-demystifying-authentication-and-authorization-2fb05759d880" target="_blank">Demystifying OAuth and OpenID</a>
+- <a href="https://sudipstha08.medium.com/openid-connect-vs-oauth-demystifying-authentication-and-authorization-2fb05759d880" target="_blank">Demystifying OAuth and OpenID: Authorizationa & Authentication</a>
 - <a href="https://sudipstha08.medium.com/implement-soft-delete-in-prisma-1a4441c85b78" target="_blank">Implement Soft Delete in Prisma</a>
+- <a href="https://medium.com/@sudipstha08/upload-files-to-aws-s3-bucket-using-presigned-url-a0ff4b406969" target="_blank">Upload file to AWS S3 Bucket using React</a>
 
 <p align="center">
 Happy coding :v:
