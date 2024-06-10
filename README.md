@@ -6,15 +6,16 @@
 - 🎓 &nbsp; Studied Bachelor's in Computer Engineering from Tribhuvan University.
 - 💼 &nbsp; Working as a Full Stack Software Engineer.
 - 🌱 &nbsp; Learning more about CI/CD & AWS
-- ✍️ &nbsp; Learning Blockchain & NFTs
+- ✍️ &nbsp; Learning Blockchain & Web3
 
 <h3>🛠 Tech Stack</h3>
 
 - :bulb: &nbsp; JavaScript | TypeScript | Node.js | Go
-- :trophy: &nbsp; ReactJS | NextJS | Redux | React Native | Gin
-- &#127969;&nbsp; HTML | CSS | SCSS | Bootstrap | Material UI | AntDesign
+- :trophy: &nbsp; ReactJS | NextJS | Redux | React Native | Gin | ExpressJS
+- &#127969;&nbsp; HTML | CSS | SCSS | Material UI | AntDesign
 - ✨ &nbsp; Firebase | REST | MySQL | Postgres
 - 🔧 &nbsp; Git | Github | Github Actions | CircleCI | Docker | AWS
+- 📝 &nbsp; Tests | Jest | Cypress
 
 <br/>
 
